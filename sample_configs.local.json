@@ -1,7 +1,8 @@
 {
     "bam_input": {
         "class": "File",
-        "path": "/tmp/NA12878.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.bam"
+        "path": "/tmp/NA12878.chrom20.ILLUMINA.bwa.CEU.low_coverage.20121211.bam",
+        "format": "http://edamontology.org/format_2572"
     },
     "bamstats_report": {
         "class": "File",
